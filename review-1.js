@@ -18,4 +18,4 @@ Submit feedback that must be addressed before merging
 
 Allow auto - merge
 
- Automatically delete head branches 
+Automatically delete head branches 
