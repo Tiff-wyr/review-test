@@ -19,3 +19,7 @@ Submit feedback that must be addressed before merging
 Allow auto - merge
 
 Automatically delete head branches 
+
+/**
+ * 切换分支测试
+ */
