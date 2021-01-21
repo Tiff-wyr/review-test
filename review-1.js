@@ -20,9 +20,7 @@ Allow auto - merge
 
 gh pr create
 
-gh pr create - commit 
-
-throw
+gh pr create -commit 
 
 Automatically delete head branches 
 Automatically delete head branches 
