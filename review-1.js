@@ -21,3 +21,8 @@ Allow auto - merge
 gh pr create
 
 Automatically delete head branches 
+Automatically delete head branches 
+
+/**
+ * 切换分支测试 多个 commit
+ */
