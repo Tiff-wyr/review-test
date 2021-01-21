@@ -18,4 +18,6 @@ Submit feedback that must be addressed before merging
 
 Allow auto - merge
 
+gh pr create
+
 Automatically delete head branches 
