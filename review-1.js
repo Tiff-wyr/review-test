@@ -18,6 +18,11 @@ Submit feedback that must be addressed before merging
 
 Allow auto - merge
 
+gh pr create
+
+gh pr create -commit 
+
+Automatically delete head branches 
 Automatically delete head branches 
 
 /**
