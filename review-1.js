@@ -20,6 +20,7 @@ Allow auto - merge
 
 gh pr create
 
+-t / --title "pr 的title"
 gh pr create - commit 
 
 <pr25-icons></pr25-icons>
