@@ -22,7 +22,7 @@ gh pr create
 
 gh pr create - commit 
 
-pr25
+<pr25-icons></pr25-icons>
 
 Automatically delete head branches 
 Automatically delete head branches 
