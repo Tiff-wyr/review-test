@@ -20,7 +20,10 @@ Allow auto - merge
 
 gh pr create
 
-gh pr create -commit 
+-t / --title "pr 的title"
+gh pr create - commit 
+
+<pr25-icons></pr25-icons>
 
 Automatically delete head branches 
 Automatically delete head branches 
